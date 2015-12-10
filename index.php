@@ -111,7 +111,7 @@
                     <a target="_blank" href="https://twitter.com/Gaviil_"><i class="fa fa-twitter"></i></a>
                 </div>
 
-                <div class="name">
+                <div class="name" id='r2'>
                     <h1>Quentin </h1> <h1>Boussard</h1>
                     <div class="under"></div>
                     <p>&#60; Développeur de l'internet/ &#62;</p><br/>
@@ -255,9 +255,9 @@
                         <p class="title">
                             Obvious Gaming
                         </p>
-                        <img src="img/folio/full/Obv-1.png" alt="" />
+                        <img src="img/folio/full/Obv-3.png" alt="" />
                         <p class="description">
-                            Projet personnel sur le développement et le design d'un blog en Ruby on rails, pour une communauté de jeux en ligne<br/>
+                            Projet personnel sur le développement et le design d'un blog en Ruby on rails, la gestion des membres et leurs stats, pour une communauté de jeux en ligne<br/>
                             (Développement en cours)
                         </p><a class="visiter" target="_blank" href="https://github.com/cle61/obv1ous">Visiter</a>
                         <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>

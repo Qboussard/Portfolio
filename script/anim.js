@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 
-    $(".name").click(function(){
+    $("#r2").click(function(){
         $("#r2d2").show();
         document.getElementById('Sound').play();
         $("#r2d2").animate({
