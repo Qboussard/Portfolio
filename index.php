@@ -255,7 +255,7 @@
                         <p class="title">
                             Obvious Gaming
                         </p>
-                        <img src="img/folio/full/Obv-3.png" alt="" />
+                        <img src="img/folio/full/Obv-3.jpg" alt="" />
                         <p class="description">
                             Projet personnel sur le développement et le design d'un blog en Ruby on rails, la gestion des membres et leurs stats, pour une communauté de jeux en ligne<br/>
                             (Développement en cours)
