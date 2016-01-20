@@ -259,24 +259,24 @@ html,body {
     top: 50%;
     transform: translate(-50%, -50%);
 
-    .ico{
-        width: 70px;
-        margin: auto;
-        height: 70px;
+        .ico{
+            width: 70px;
+            margin: auto;
+            height: 70px;
 
-        img{
-            width: 100%;
+            img{
+                width: 100%;
+            }
         }
-    }
-    .midsize{
-        width:397px;
-        display: inline-block;
-        float: left;
+        .midsize{
+            width:397px;
+            display: inline-block;
+            float: left;
 
-    }
-    .midright{
-        width:367px;
-    }
+        }
+        .midright{
+            width:367px;
+        }
 }
 .borderRight{
     border-right: 1px solid black;

@@ -259,7 +259,7 @@
                         <p class="description">
                             Projet personnel sur le développement et le design d'un blog en Ruby on rails, la gestion des membres et leurs stats, pour une communauté de jeux en ligne<br/>
                             (Développement en cours)
-                        </p><a class="visiter" target="_blank" href="https://github.com/cle61/obv1ous">Visiter</a>
+                        </p><a class="visiter" target="_blank" href="http://obv1ous.fr/">Visiter</a>
                         <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                     </div>
                     <div id="materialFolio_full" class="full" style="display:none;">
