@@ -248,14 +248,16 @@
                         </a>
                         <p class="description">
                             Stage chez Sharepay sur l'intégration de la landing page du produit et développement front-End de l'application web pour permettre aux utilisateurs de gérer leurs informations bancaire
-                        </p><a class="visiter" target="_blank" href="http://www.tribugourmande.com/demotg/">Visiter</a>
+                        </p><a class="visiter" target="_blank" href="https://www.sharepay.fr/">Visiter</a>
                         <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                     </div>
                     <div id="Obvious_full" class="full" style="display:none;">
                         <p class="title">
                             Obvious Gaming
                         </p>
+                        <a target="_blank" href="http://obv1ous.fr/">
                         <img src="img/folio/full/Obv-3.jpg" alt="" />
+                        </a>
                         <p class="description">
                             Projet personnel sur le développement et le design d'un blog en Ruby on rails, la gestion des membres et leurs stats, pour une communauté de jeux en ligne<br/>
                             (Développement en cours)
