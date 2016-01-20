@@ -243,7 +243,7 @@
                         <p class="title">
                             SharePay
                         </p>
-                        <a target="_blank" href="http://www.tribugourmande.com/demotg/">
+                        <a target="_blank" href="https://www.sharepay.fr/">
                         <img src="img/folio/full/sharepay.png" alt="" />
                         </a>
                         <p class="description">
