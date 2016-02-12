@@ -3,7 +3,7 @@
 ##Lien :
 http://quentinboussard.fr
 
-Template html -> https://github.com/Gaviil/Portfolio/blob/master/asset/template.zip
+Template html -> http://www.mediafire.com/download/64ux8z5q18czp1m/template.zip
 
 ##Description :
 
