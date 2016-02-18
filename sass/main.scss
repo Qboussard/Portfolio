@@ -596,7 +596,7 @@ html,body {
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
     .container{
       display: none;
     }
@@ -604,7 +604,7 @@ html,body {
       display: block;
     }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1000px) {
     .container{
       display: block;
     }

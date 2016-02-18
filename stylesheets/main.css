@@ -718,7 +718,7 @@ html section, body section {
     opacity: 0.6;
   }
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
   /* line 600, ../sass/main.scss */
   .container {
     display: none;
@@ -729,7 +729,7 @@ html section, body section {
     display: block;
   }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1000px) {
   /* line 608, ../sass/main.scss */
   .container {
     display: block;

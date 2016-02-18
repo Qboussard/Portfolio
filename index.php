@@ -107,6 +107,7 @@
             <section class='home'>
                 <div class="social">
                     <a target="_blank" href="https://github.com/Gaviil"><i class="fa fa-github"></i></a>
+                    <a target="_blank" href="http://codepen.io/Gaviil/"><i class="fa fa-codepen"></i></i></a>
                     <a target="_blank" href="https://www.linkedin.com/profile/view?id=AAIAAA220CUBmFj2zbHQj4BhhqNqPQBL05VkFFA&trk=nav_responsive_tab_profile"><i class="fa fa-linkedin"></i></a>
                     <a target="_blank" href="https://twitter.com/Gaviil_"><i class="fa fa-twitter"></i></a>
                 </div>
