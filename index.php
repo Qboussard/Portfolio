@@ -108,6 +108,7 @@
                 <div class="social">
                     <a target="_blank" href="https://github.com/Gaviil"><i class="fa fa-github"></i></a>
                     <a target="_blank" href="http://codepen.io/Gaviil/"><i class="fa fa-codepen"></i></i></a>
+                    <a target="_blank" href="http://stackoverflow.com/users/6289771/quentin-boussard"><i class="fa fa-stack-overflow"></i></a>
                     <a target="_blank" href="https://www.linkedin.com/profile/view?id=AAIAAA220CUBmFj2zbHQj4BhhqNqPQBL05VkFFA&trk=nav_responsive_tab_profile"><i class="fa fa-linkedin"></i></a>
                     <a target="_blank" href="https://twitter.com/Gaviil_"><i class="fa fa-twitter"></i></a>
                 </div>
@@ -198,6 +199,7 @@
                     <div class="folio"><img id="sharepay" src="img/folio/sharepay.png" alt="" /></div>
                     <div class="folio"><img id="Obvious" src="img/folio/Obvious.png" alt="" /></div>
                     <div class="folio"><img id="materialFolio" src="img/folio/material.png" alt="" /></div>
+                    <div class="folio"><img id="meteor" src="img/folio/meteor.png" alt="" /></div>
 
                     <div id="coyotes_full" class="full" style="display:none;">
                         <p class="title">
@@ -273,6 +275,18 @@
                         <p class="description">
                             Développement d'animation du type Material design pour un portfolio<br/>
                         </p><a class="visiter" target="_blank" href="http://christophe-kerebel.com/">Visiter</a>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                    </div>
+                    <div id="meteor_full" class="full" style="display:none;">
+                        <p class="title">
+                            Obvious Gaming
+                        </p>
+                        <a>
+                            <img src="img/folio/full/meteor.png" alt="" />
+                        </a>
+                        <p class="description">
+                            Développement d'une application mobile avec le framework Ionic (Cordova et AngularJs) dans le but de lister ses séries favorites et sa liste d'épisodes à regarder<br/>
+                        </p>
                         <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                     </div>
                 </div>
