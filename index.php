@@ -65,7 +65,7 @@
                                     <td><img src="img/icones/icone-geolocalisation.jpg" alt="" /></td><td>Ivry sur seine</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="img/icones/icone-mail.jpg" alt="" /></td><td>contact@quentinboussard.fr</td>
+                                    <td><img src="img/icones/icone-mail.jpg" alt="" /></td><td>quentin.bouss@gmail.com</td>
                                 </tr>
                             </table>
 
@@ -116,7 +116,7 @@
                 <div class="name" id='r2'>
                     <h1>Quentin </h1> <h1>Boussard</h1>
                     <div class="under"></div>
-                    <p>&#60; Développeur de l'internet/ &#62;</p><br/>
+                    <p>&#60; Front-End développeur/ &#62;</p><br/>
                 </div>
                 <div class="contentKey">
                     <div class="keybordSign">

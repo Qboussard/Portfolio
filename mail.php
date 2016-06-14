@@ -73,7 +73,7 @@ if (isset($_POST['go']))
         $message = "Message par : ".$_POST['nom']."\nAdresse : ".$_POST['mail']."\n\nMessage : ".$_POST['message']."\n\nSite Web : ".$_POST['siteweb'];
 
         setcookie('mail','1',time()+120);
-        if (mail("contact@quentinboussard.fr",$sujet,$message,$header)) 
+        if (mail("quentin.bouss@gmail.com",$sujet,$message,$header)) 
         {
             $message_mail = "Mail bien envoyé";
         }
