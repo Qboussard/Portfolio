@@ -200,11 +200,14 @@
                     <div class="folio"><img id="Obvious" src="img/folio/Obvious.png" alt="" /></div>
                     <div class="folio"><img id="materialFolio" src="img/folio/material.png" alt="" /></div>
                     <div class="folio"><img id="meteor" src="img/folio/meteor.png" alt="" /></div>
+                    <div class="folio"><img id="codepenFace" src="img/folio/codepen.png" alt="" /></div>
 
                     <div id="coyotes_full" class="full" style="display:none;">
                         <p class="title">
                             Les Coyotes
                         </p>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+
                         <a target="_blank" href="http://www.coyotes-gray.fr">
                         <img src="img/folio/full/coyotes.png" alt="" />
                         </a>
@@ -213,12 +216,13 @@
                             Développement d'un blog et d'un gestionnaire de fichier en ligne pour des photos d'événement.
 
                         </p><a class="visiter" target="_blank" href="http://www.coyotes-gray.fr">Visiter</a>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                     </div>
                     <div id="filer_full" class="full" style="display:none;">
                         <p class="title">
                             Suricate File
                         </p>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+
                         <a target="_blank" href="http://www.coyotes-gray.fr/filer">
                         <img src="img/folio/full/filer.png" alt="" />
                         </a>
@@ -227,12 +231,13 @@
                             Upload, Download etc ...
 
                         </p><a class="visiter" target="_blank" href="http://www.coyotes-gray.fr/filer">Visiter</a>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                     </div>
                     <div id="tribu_full" class="full" style="display:none;">
                         <p class="title">
                             Tribugourmande
                         </p>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+
                         <a target="_blank" href="http://www.tribugourmande.com/demotg/">
                         <img src="img/folio/full/tribu.png" alt="" />
                         </a>
@@ -240,24 +245,25 @@
                             Stage chez webedia sur l'intégration du site tribugourmande.com pour adapter le design au site de 750g.com
 
                         </p><a class="visiter" target="_blank" href="http://www.tribugourmande.com/demotg/">Visiter</a>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                     </div>
                     <div id="sharepay_full" class="full" style="display:none;">
                         <p class="title">
                             SharePay
                         </p>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+
                         <a target="_blank" href="https://www.sharepay.fr/">
                         <img src="img/folio/full/sharepay.png" alt="" />
                         </a>
                         <p class="description">
                             Stage chez Sharepay sur l'intégration de la landing page du produit et développement front-End de l'application web pour permettre aux utilisateurs de gérer leurs informations bancaire
                         </p><a class="visiter" target="_blank" href="https://www.sharepay.fr/">Visiter</a>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                     </div>
                     <div id="Obvious_full" class="full" style="display:none;">
                         <p class="title">
                             Obvious Gaming
                         </p>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                         <a target="_blank" href="http://obv1ous.fr/">
                         <img src="img/folio/full/Obv-3.jpg" alt="" />
                         </a>
@@ -265,29 +271,41 @@
                             Projet personnel sur le développement et le design d'un blog en Ruby on rails, la gestion des membres et leurs stats, pour une communauté de jeux en ligne<br/>
                             (Développement en cours)
                         </p><a class="visiter" target="_blank" href="http://obv1ous.fr/">Visiter</a>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                     </div>
                     <div id="materialFolio_full" class="full" style="display:none;">
                         <p class="title">
                             Portfolio Material
                         </p>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                         <video class="materialVid" src="img/folio/full/folio-material.mp4" loop></video>
                         <p class="description">
                             Développement d'animation du type Material design pour un portfolio<br/>
                         </p><a class="visiter" target="_blank" href="http://christophe-kerebel.com/">Visiter</a>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                     </div>
                     <div id="meteor_full" class="full" style="display:none;">
                         <p class="title">
-                            Obvious Gaming
+                            Meteor
                         </p>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                         <a>
                             <img src="img/folio/full/meteor.png" alt="" />
                         </a>
                         <p class="description">
                             Développement d'une application mobile avec le framework Ionic (Cordova et AngularJs) dans le but de lister ses séries favorites et sa liste d'épisodes à regarder<br/>
                         </p>
+
+                    </div>
+                    <div id="codepenFace_full" class="full" style="display:none;">
+                        <p class="title">
+                            Cursor position
+                        </p>
                         <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <a>
+                            <iframe height='480' scrolling='no' src='//codepen.io/Gaviil/embed/preview/LNEJbP/?height=480&theme-id=22236&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/Gaviil/pen/LNEJbP/'>mouse position</a> by Quentin (<a href='http://codepen.io/Gaviil'>@Gaviil</a>) on <a href='http://codepen.io'>CodePen</a>.
+                        </a>
+                        <p class="description">
+                            Codepen project
+                        </p>
                     </div>
                 </div>
             </section>

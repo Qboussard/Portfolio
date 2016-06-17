@@ -169,7 +169,7 @@ html,body {
     }
 }
 .content_page_folio{
-    width:840px;
+    width:1000px;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -194,6 +194,12 @@ html,body {
         width: 100%;
         margin: auto;
 
+        iframe{
+            width:100%;
+            text-align: center;
+            display: block;
+            margin: auto;
+        }
         video{
             width:100%;
             text-align: center;
@@ -212,6 +218,7 @@ html,body {
             font-size: 20px;
             margin-top: 5px;
             color:$grey;
+            display: inline-block;
         }
         .description{
             font-weight: 300;
@@ -224,7 +231,8 @@ html,body {
             cursor:pointer;
             text-align: center;
             margin: auto;
-            display: block;
+            display: inline-block;
+            float: right;
 
             i{
                 margin-right: 5px;
