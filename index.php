@@ -136,7 +136,7 @@
                         <p class='descri font300'>
                             Expériences professionnelles:
                         </p><br/>
-                        <a target="_blank" href="https://www.adnow.io/"><img class="pro" src="img/adnow.png" alt=""/></a>
+                        <a target="_blank" href="http://www.adnow.io/"><img class="pro" src="img/adnow.png" alt=""/></a>
                         <a target="_blank" href="https://www.sharepay.fr/"><img class="pro" src="img/sharepay.png" alt=""/></a>
                         <div class="informations">
                             <div class="inf">INFORMATIONS</div>
