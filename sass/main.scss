@@ -169,7 +169,7 @@ html,body {
     }
 }
 .content_page_folio{
-    width:1000px;
+    width:1050px;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -548,7 +548,9 @@ html,body {
     clear: both;
 }
 .pro{
-    width:150px;
+    max-width:150px;
+    max-height:85px;
+    margin: 0 15px;
 }
 #r2d2{
     width:250px;

@@ -136,7 +136,7 @@
                         <p class='descri font300'>
                             Expériences professionnelles:
                         </p><br/>
-                        <a target="_blank" href="http://www.webedia.fr/"><img class="pro" src="img/webedia.png" alt=""/></a>
+                        <a target="_blank" href="https://www.adnow.io/"><img class="pro" src="img/adnow.png" alt=""/></a>
                         <a target="_blank" href="https://www.sharepay.fr/"><img class="pro" src="img/sharepay.png" alt=""/></a>
                         <div class="informations">
                             <div class="inf">INFORMATIONS</div>
@@ -172,7 +172,6 @@
                             <i data-info="Jquery" class="devicon-jquery-plain"></i>
                             <i data-info="Angular js" class="devicon-angularjs-plain"></i>
                             <i data-info="Git" class="devicon-git-plain"></i>
-                            <i data-info="PHP" class="devicon-php-plain"></i>
                             <i data-info="Grunt" class="devicon-grunt-plain"></i>
                             <i data-info="Ruby on Rails" class="devicon-rails-plain"></i>
                             <i data-info="Photoshop" class="devicon-photoshop-plain"></i>

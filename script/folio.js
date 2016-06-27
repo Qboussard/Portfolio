@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 
-    var sizefull = "1000px";
+    var sizefull = "1050px";
     // if($( window ).width() > "1250"){
     //     sizefull = "750px"
     // }
@@ -25,6 +25,6 @@ $( document ).ready(function() {
     $(".returnGallerie").click(function(){
         $(".full").hide();
         $(".folio").slideToggle( "fast" );
-        $(".content_page_folio").css("width","1000px");
+        $(".content_page_folio").css("width","1050px");
     });
 });
