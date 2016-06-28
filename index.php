@@ -200,6 +200,7 @@
                     <div class="folio"><img id="materialFolio" src="img/folio/material.png" alt="" /></div>
                     <div class="folio"><img id="meteor" src="img/folio/meteor.png" alt="" /></div>
                     <div class="folio"><img id="templateFolio" src="img/folio/folioDemo.png" alt="" /></div>
+                    <div class="folio"><img id="codepenSVG" src="img/folio/svganim.png" alt="" /></div>
                     <div class="folio"><img id="codepenFace" src="img/folio/codepen.png" alt="" /></div>
 
                     <div id="coyotes_full" class="full" style="display:none;">
@@ -297,7 +298,7 @@
                     </div>
                     <div id="templateFolio_full" class="full" style="display:none;">
                         <p class="title">
-
+                            Animation Portfolio
                         </p>
                         <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                         <a>
@@ -305,12 +306,25 @@
                             <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
                         </a>
                         <p class="description">
-                            Template de la navigation de mon porfolio.
+                            Projet Codepen sur la navigation JavaScript de mon porfolio.
+                        </p>
+                    </div>
+                    <div id="codepenSVG_full" class="full" style="display:none;">
+                        <p class="title">
+                            Cursor position
+                        </p>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <a>
+                            <p data-height="480" data-theme-id="22236" data-slug-hash="wWJqyb" data-default-tab="result" data-user="Gaviil" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/Gaviil/pen/wWJqyb/">wWJqyb</a> by Quentin (<a href="http://codepen.io/Gaviil">@Gaviil</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+                            <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+                        </a>
+                        <p class="description">
+                            Projet personnel sur les animations SVG.
                         </p>
                     </div>
                     <div id="codepenFace_full" class="full" style="display:none;">
                         <p class="title">
-                            Cursor position
+                            Orbite SVG
                         </p>
                         <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                         <a>
@@ -318,7 +332,7 @@
                             <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
                         </a>
                         <p class="description">
-                            Projet personnel sur le déplacement de la souris en JavaScript.
+                            Projet personnel sur le déplacement de la souris en JavaScript et animation d'élément en fonction de celle ci.
                         </p>
                     </div>
 
