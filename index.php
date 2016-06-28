@@ -199,6 +199,7 @@
                     <div class="folio"><img id="Obvious" src="img/folio/Obvious.png" alt="" /></div>
                     <div class="folio"><img id="materialFolio" src="img/folio/material.png" alt="" /></div>
                     <div class="folio"><img id="meteor" src="img/folio/meteor.png" alt="" /></div>
+                    <div class="folio"><img id="templateFolio" src="img/folio/folioDemo.png" alt="" /></div>
                     <div class="folio"><img id="codepenFace" src="img/folio/codepen.png" alt="" /></div>
 
                     <div id="coyotes_full" class="full" style="display:none;">
@@ -294,18 +295,33 @@
                         </p>
 
                     </div>
+                    <div id="templateFolio_full" class="full" style="display:none;">
+                        <p class="title">
+
+                        </p>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <a>
+                            <p data-height="480" data-theme-id="22236" data-slug-hash="BjMzdB" data-default-tab="result" data-user="Gaviil" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/Gaviil/pen/BjMzdB/">Navigation arrow Portfolio</a> by Quentin (<a href="http://codepen.io/Gaviil">@Gaviil</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+                            <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+                        </a>
+                        <p class="description">
+                            Template de la navigation de mon porfolio.
+                        </p>
+                    </div>
                     <div id="codepenFace_full" class="full" style="display:none;">
                         <p class="title">
                             Cursor position
                         </p>
                         <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
                         <a>
-                            <iframe height='480' scrolling='no' src='//codepen.io/Gaviil/embed/preview/LNEJbP/?height=480&theme-id=22236&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/Gaviil/pen/LNEJbP/'>mouse position</a> by Quentin (<a href='http://codepen.io/Gaviil'>@Gaviil</a>) on <a href='http://codepen.io'>CodePen</a>.
+                            <p data-height="480" data-theme-id="22236" data-slug-hash="LNEJbP" data-default-tab="result" data-user="Gaviil" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/Gaviil/pen/LNEJbP/">mouse position</a> by Quentin (<a href="http://codepen.io/Gaviil">@Gaviil</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+                            <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
                         </a>
                         <p class="description">
-                            Codepen project
+                            Projet personnel sur le déplacement de la souris en JavaScript.
                         </p>
                     </div>
+
                 </div>
             </section>
         </div>
