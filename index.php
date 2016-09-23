@@ -44,7 +44,7 @@
                     <li><a class="GoHOme">Accueil</a></li>
                     <li><a class="GoAbout">À-propos</a></li>
                     <li><a class="GoContact">Contact</a></li>
-                    <li><a class="GoWork">Réalisation</a></li>
+                    <li><a class="GoWork">Réalisations</a></li>
                 </ul>
             </nav>
             <section id="contact" class='page1 padding-left'>
@@ -116,7 +116,7 @@
                 <div class="name" id='r2'>
                     <h1>Quentin </h1> <h1>Boussard</h1>
                     <div class="under"></div>
-                    <p>&#60; Front-End développeur/ &#62;</p><br/>
+                    <p>&#60;Développeur Front-End/ &#62;</p><br/>
                 </div>
                 <div class="contentKey">
                     <div class="keybordSign">
@@ -207,14 +207,14 @@
                         <p class="title">
                             Les Coyotes
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
 
-                        <a target="_blank" href="http://www.coyotes-gray.fr">
+                        <a target="_blank" href="http://coyotes-gray.fr">
                         <img src="img/folio/full/coyotes.png" alt="" />
                         </a>
                         <p class="description">
                             Projet personnel pour un club sportif de roller Hockey.<br/>
-                            Développement d'un blog et d'un gestionnaire de fichier en ligne pour des photos d'événement.
+                            Développement d'un blog avec un administration en Ruby on Rails
 
                         </p><a class="visiter" target="_blank" href="http://www.coyotes-gray.fr">Visiter</a>
                     </div>
@@ -222,13 +222,13 @@
                         <p class="title">
                             Suricate File
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
 
                         <a target="_blank" href="http://www.coyotes-gray.fr/filer">
                         <img src="img/folio/full/filer.png" alt="" />
                         </a>
                         <p class="description">
-                            Projet d'école sur la création d'un gestinnaire de fichier en ligne en PHP.<br/>
+                            Projet d'école sur la création d'un gestionnaire de fichier en ligne en PHP.<br/>
                             Upload, Download etc ...
 
                         </p><a class="visiter" target="_blank" href="http://www.coyotes-gray.fr/filer">Visiter</a>
@@ -237,7 +237,7 @@
                         <p class="title">
                             Tribugourmande
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
 
                         <a target="_blank" href="http://www.tribugourmande.com/demotg/">
                         <img src="img/folio/full/tribu.png" alt="" />
@@ -245,49 +245,49 @@
                         <p class="description">
                             Stage chez webedia sur l'intégration du site tribugourmande.com pour adapter le design au site de 750g.com
 
-                        </p><a class="visiter" target="_blank" href="http://www.tribugourmande.com/demotg/">Visiter</a>
+                        <!-- </p><a class="visiter" target="_blank" href="http://www.tribugourmande.com/demotg/">Visiter</a> -->
                     </div>
                     <div id="sharepay_full" class="full" style="display:none;">
                         <p class="title">
                             SharePay
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
 
                         <a target="_blank" href="https://www.sharepay.fr/">
                         <img src="img/folio/full/sharepay.png" alt="" />
                         </a>
                         <p class="description">
-                            Stage chez Sharepay sur l'intégration de la landing page du produit et développement front-End de l'application web pour permettre aux utilisateurs de gérer leurs informations bancaire
+                            Stage chez Sharepay sur l'intégration de la landing page du produit et développement Front-End de l'application web pour permettre aux utilisateurs de gérer leurs informations bancaires
                         </p><a class="visiter" target="_blank" href="https://www.sharepay.fr/">Visiter</a>
                     </div>
                     <div id="Obvious_full" class="full" style="display:none;">
                         <p class="title">
                             Obvious Gaming
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
-                        <a target="_blank" href="http://obv1ous.fr/">
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
+                        <a>
                         <img src="img/folio/full/Obv-3.jpg" alt="" />
                         </a>
                         <p class="description">
-                            Projet personnel sur le développement et le design d'un blog en Ruby on rails, la gestion des membres et leurs stats, pour une communauté de jeux en ligne<br/>
+                            Projet personnel sur le développement et le design d'un blog en Ruby on rails, la gestion des membres et leurs statistiques, pour une communauté de jeux en ligne<br/>
                             (Développement en cours)
-                        </p><a class="visiter" target="_blank" href="http://obv1ous.fr/">Visiter</a>
+                        <!-- </p><a class="visiter" target="_blank" href="http://obv1ous.fr/">Visiter</a> -->
                     </div>
                     <div id="materialFolio_full" class="full" style="display:none;">
                         <p class="title">
                             Portfolio Material
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
                         <video class="materialVid" src="img/folio/full/folio-material.mp4" loop></video>
                         <p class="description">
                             Développement d'animation du type Material design pour un portfolio<br/>
-                        </p><a class="visiter" target="_blank" href="http://christophe-kerebel.com/">Visiter</a>
+                        <!-- </p><a class="visiter" target="_blank" href="http://christophe-kerebel.com/">Visiter</a> -->
                     </div>
                     <div id="meteor_full" class="full" style="display:none;">
                         <p class="title">
                             Meteor
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
                         <a>
                             <img src="img/folio/full/meteor.png" alt="" />
                         </a>
@@ -298,22 +298,22 @@
                     </div>
                     <div id="templateFolio_full" class="full" style="display:none;">
                         <p class="title">
-                            Animation Portfolio
+                            Portfolio animation
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
                         <a>
                             <p data-height="480" data-theme-id="22236" data-slug-hash="BjMzdB" data-default-tab="result" data-user="Gaviil" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/Gaviil/pen/BjMzdB/">Navigation arrow Portfolio</a> by Quentin (<a href="http://codepen.io/Gaviil">@Gaviil</a>) on <a href="http://codepen.io">CodePen</a>.</p>
                             <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
                         </a>
                         <p class="description">
-                            Projet Codepen sur la navigation JavaScript de mon porfolio.
+                            Projet Codepen sur la navigation JavaScript de mon portfolio.
                         </p>
                     </div>
                     <div id="codepenSVG_full" class="full" style="display:none;">
                         <p class="title">
-                            Cursor position
+                            Orbit SVG
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
                         <a>
                             <p data-height="480" data-theme-id="22236" data-slug-hash="wWJqyb" data-default-tab="result" data-user="Gaviil" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/Gaviil/pen/wWJqyb/">wWJqyb</a> by Quentin (<a href="http://codepen.io/Gaviil">@Gaviil</a>) on <a href="http://codepen.io">CodePen</a>.</p>
                             <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
@@ -324,9 +324,9 @@
                     </div>
                     <div id="codepenFace_full" class="full" style="display:none;">
                         <p class="title">
-                            Orbite SVG
+                            Cursor position
                         </p>
-                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour a la galerie</span>
+                        <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
                         <a>
                             <p data-height="480" data-theme-id="22236" data-slug-hash="LNEJbP" data-default-tab="result" data-user="Gaviil" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/Gaviil/pen/LNEJbP/">mouse position</a> by Quentin (<a href="http://codepen.io/Gaviil">@Gaviil</a>) on <a href="http://codepen.io">CodePen</a>.</p>
                             <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
