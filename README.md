@@ -1,11 +1,11 @@
 # Portfolio
 
-##Lien :
+## Lien :
 http://quentinboussard.fr
 
 Template html download -> http://www.mediafire.com/download/64ux8z5q18czp1m/template.zip
 
-##Description :
+## Description :
 
 Portfolio personnel regroupant mes projets.
 navigation en slide grace au menu ou au flèche du clavier
@@ -15,7 +15,7 @@ https://fr.linkedin.com/in/quentin-bouyoux-28840084
 
 /!\ version responsive non réalisé.
 
-##Screenshot
+## Screenshot
 
 ![alt tag](http://quentinboussard.fr/img/folio/full/obv/folio.jpg)
 
