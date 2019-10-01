@@ -301,10 +301,8 @@
                             Portfolio animation
                         </p>
                         <span class="returnGallerie"><i class="fa fa-arrow-left"></i>retour à la galerie</span>
-                        <a>
                             <p data-height="480" data-theme-id="22236" data-slug-hash="BjMzdB" data-default-tab="result" data-user="Gaviil" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/Gaviil/pen/BjMzdB/">Navigation arrow Portfolio</a> by Quentin (<a href="http://codepen.io/Gaviil">@Gaviil</a>) on <a href="http://codepen.io">CodePen</a>.</p>
                             <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-                        </a>
                         <p class="description">
                             Projet Codepen sur la navigation JavaScript de mon portfolio.
                         </p>
